@@ -97,4 +97,4 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+In this practica, I am be able to do schematic circuits in PBC in KiCad. The instructions was not very clear at the beginning, but the rest of the practice was clear and comprehensive. I had problems adding the libreries because the explorer could no found the modules. On the other hand, I spent much time (around 2 hours) arranging the components, and I had an error in the PCB, thus, at the moment when I was connecitng each component in their place, it was missing a a wire in a resistence. In general, I can say I got the knowledge to make physical PCB's. The thing that I need to improve is spread the components to have space and have a better design. 
